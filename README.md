@@ -2,7 +2,6 @@
 - 👀 I’m interested in programing, football and explore more about the knowledge online 
 - 🌱 I’m currently learning programing C, htmm and CSS
 - 💞️ I’m looking to cooperation to can make together a better project
-- 📫 How to reach me: chunhau.py@gmail.com
 - 😄 Pronouns: =)))
 - ⚡ Fun fact: like playing video game when free and have very strange daily habits.
 
