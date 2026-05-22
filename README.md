@@ -1,164 +1,251 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║         maaitlunghau — GitHub Profile README                ║
+  ║         Stack: Next.js · NestJS · .NET · TypeScript         ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Mai%20Trung%20Hậu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20in%20the%20Making&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- ── HEADER ─────────────────────────────────────────────────── -->
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+.NET;Always+learning%2C+always+building+%F0%9F%94%A5;Open+to+Internship+%26+Opportunities+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Badges -->
-[![Open to Work](https://img.shields.io/badge/🟢%20Open%20to-Internship%20%2F%20Work-22c55e?style=for-the-badge)](mailto:chunhau.py@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marseille--hauuu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marseille-hauuu-780171337/)
-[![Email](https://img.shields.io/badge/Email-chunhau.py%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chunhau.py@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=maaitlunghau&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/maaitlunghau)
+```
+███╗   ███╗ █████╗ ██╗    ████████╗██████╗ ██╗   ██╗███╗   ██╗ ██████╗     ██╗  ██╗ █████╗ ██╗   ██╗
+████╗ ████║██╔══██╗██║    ╚══██╔══╝██╔══██╗██║   ██║████╗  ██║██╔════╝     ██║  ██║██╔══██╗██║   ██║
+██╔████╔██║███████║██║       ██║   ██████╔╝██║   ██║██╔██╗ ██║██║  ███╗    ███████║███████║██║   ██║
+██║╚██╔╝██║██╔══██║██║       ██║   ██╔══██╗██║   ██║██║╚██╗██║██║   ██║    ██╔══██║██╔══██║██║   ██║
+██║ ╚═╝ ██║██║  ██║███████╗  ██║   ██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝    ██║  ██║██║  ██║╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝  ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
+```
 
 </div>
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Developer+%E2%80%A2+TypeScript+First+%F0%9F%A6%95;Co-Founder+%40+MST+Software+%E2%80%94+MMO+Solution+Technology;Next.js+%7C+NestJS+%7C+.NET+8+%7C+PostgreSQL;Clean+Architecture.+Scalable+Systems.+Ship+Fast.+%E2%9A%A1)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marseille-hauuu-780171337/)
+[![Gmail](https://img.shields.io/badge/chunhau.py%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chunhau.py@gmail.com)
+[![GitHub](https://img.shields.io/badge/maaitlunghau-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maaitlunghau)
+[![Profile Views](https://komarev.com/ghpvc/?username=maaitlunghau&color=0ea5e9&style=flat-square&label=Views)](https://github.com/maaitlunghau)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Internship%20%2F%20Fresher-22C55E?style=flat-square)](mailto:chunhau.py@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ── TWO-COLUMN LAYOUT ────────────────────────────────────────── -->
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🧑‍💻 About Me
 
 ```typescript
 const hau = {
-  name:       "Mai Trung Hậu",
-  alias:      "maaitlunghau",
-  role:       "Fullstack Developer",
-  education:  "FPT Aptech College — Web Programming (Final Year)",
-  location:   "Vietnam 🇻🇳",
-  email:      "chunhau.py@gmail.com",
+  name:     "Mai Trung Hậu",
+  alias:    "maaitlunghau",
+  location: "Ho Chi Minh City 🇻🇳",
 
-  focus:      ["Building scalable web apps", "Clean architecture", "Great UX"],
-  learning:   ["System Design", "DevOps", "Cloud Infrastructure"],
-  openTo:     ["Internship", "Fresher roles", "Remote opportunities"],
+  roles: [
+    "Co-Founder @ MST Software",
+    "Fullstack Web Developer",
+    "IT Student @ UIT",
+  ],
 
-  funFact:    "I debug with console.log and I'm not ashamed of it 😄",
+  focus: [
+    "Scaling MST Software ecosystem",
+    "System design & clean arch",
+    "Full-stack depth over breadth",
+  ],
+
+  openTo: ["Internship", "Fresher"],
 };
 ```
 
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔧 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaitlunghau&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=maaitlunghau&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
-<div align="center">
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-> 🔧 *Projects coming soon — currently building & deploying. Stay tuned!*
-
-<!-- TEMPLATE — uncomment & fill in when ready:
-
-### 🔹 [Project Name](https://github.com/maaitlunghau/project-name)
-> One-line killer description of what the app does and who it's for.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
-**[🌐 Live Demo](https://your-deploy-link.vercel.app)** | **[📂 Source Code](https://github.com/maaitlunghau/project-name)**
-
--->
-
----
-
-## 🎓 Education
-
-| 🏫 School | 📚 Major | 📅 Year |
-|---|---|---|
-| FPT Aptech College | Web Programming | 2023 – 2025 (Final Year) |
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-> 🔄 *Powered by [WakaTime](https://wakatime.com) — Setup guide below*
-<!--END_SECTION:waka-->
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marseille-hauuu-780171337/)
-[![Email Me](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chunhau.py@gmail.com)
-[![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaitlunghau)
+</td>
+<td width="45%" valign="top" align="center">
 
 <br/>
 
-**💼 Currently open to Internship & Fresher opportunities in Fullstack Development.**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaitlunghau&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=94A3B8&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaitlunghau&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=94A3B8&langs_count=6)
+
+</td>
+</tr>
+</table>
+
 <br/>
-*Fast learner. Team player. Ships clean code.*
 
-</div>
-
----
+<!-- ── STREAK ────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7F7&height=120&section=footer&animation=fadeIn" />
+![Streak](https://streak-stats.demolab.com/?user=maaitlunghau&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1E293B&ring=0EA5E9&fire=F59E0B&currStreakLabel=0EA5E9&sideLabels=94A3B8&dates=475569&currStreakNum=ffffff&sideNums=ffffff)
 
-*"The best way to learn is to build. The best way to grow is to ship."*
+</div>
+
+<br/>
+
+<!-- ── TECH STACK ──────────────────────────────────────────────────── -->
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&perline=6)](https://skillicons.dev)
+
+**Backend & Database**
+
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,dotnet,cs,express,postgres,mongodb&perline=7)](https://skillicons.dev)
+
+**Tools & Infra**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,vscode,figma&perline=7)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<!-- ── MST SOFTWARE ────────────────────────────────────────────────── -->
+
+### 🏢 MST Software — MMO Solution Technology
+
+<table>
+<tr>
+<td>
+
+> **Co-Founder** of a software company focused on building specialized tooling for the MMO (*Make Money Online*) market. Products are designed around high stability, flexibility, and real operational demands.
+
+My responsibilities span **product direction → system architecture → feature development → cross-functional coordination**.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ── TROPHIES ───────────────────────────────────────────────────── -->
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=maaitlunghau&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<!-- ── ACTIVITY GRAPH ──────────────────────────────────────────────── -->
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=github-compact&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=F59E0B&area=true&area_color=0EA5E9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<!-- ── SNAKE ANIMATION ─────────────────────────────────────────────── -->
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maaitlunghau/maaitlunghau/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maaitlunghau/maaitlunghau/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/maaitlunghau/maaitlunghau/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<details>
+<summary>⚙️ Setup Snake Animation (click to expand)</summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After the action runs once, the SVGs will be available at the URLs above.
+
+</details>
+
+</div>
+
+<br/>
+
+<!-- ── EDUCATION ──────────────────────────────────────────────────── -->
+
+### 🎓 Education
+
+| | Institution | Major | Period |
+|:---:|---|---|:---:|
+| 🎓 | **University of Information Technology (UIT)** | Web Programming | 2023 – Present |
+
+<br/>
+
+<!-- ── CONNECT ──────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+---
+
+**💼 Open to Internship & Fresher opportunities in Fullstack Development**
+
+*Co-founder by day. Coder by night. Ships things that work.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marseille-hauuu-780171337/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chunhau.py@gmail.com)
+&nbsp;
+[![Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maaitlunghau)
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=footer)
 
 </div>
