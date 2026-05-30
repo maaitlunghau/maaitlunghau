@@ -1,0 +1,174 @@
+<svg width="900" height="200" viewBox="0 0 900 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Mai Trung Hậu — Co-Founder @ MST Software · Fullstack Developer</title>
+  <desc>Animated banner: name center reveal, scan line, corner brackets, dot grid. Supports dark and light mode.</desc>
+
+  <defs>
+    <pattern id="dotsDark" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.9" fill="#21262D"/>
+    </pattern>
+    <pattern id="dotsLight" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.9" fill="#D0D7DE"/>
+    </pattern>
+    <clipPath id="nameReveal">
+      <rect x="0" y="55" width="0" height="70">
+        <animate attributeName="width" from="0" to="900" dur="1.0s" fill="freeze" begin="0.4s" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      </rect>
+    </clipPath>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        .bg-rect  { fill: #0D1117; }
+        .dot-fill { fill: url(#dotsDark); }
+        .name-txt { fill: #F0F6FC; }
+        .underline-rect { fill: #378ADD; }
+        .role-txt { fill: #378ADD; }
+        .meta-txt { fill: #6E7681; }
+        .dot-sep  { fill: #378ADD; }
+        .sep-txt  { fill: #30363D; }
+        .side-txt { fill: #21262D; }
+        .status-txt { fill: #6E7681; }
+        .status-dot { fill: #22C55E; }
+        .corner-stroke { stroke: #378ADD; }
+        .scan-bar { fill: #378ADD; }
+      }
+      @media (prefers-color-scheme: light) {
+        .bg-rect  { fill: #F6F8FA; }
+        .dot-fill { fill: url(#dotsLight); }
+        .name-txt { fill: #0D1117; }
+        .underline-rect { fill: #185FA5; }
+        .role-txt { fill: #185FA5; }
+        .meta-txt { fill: #57606A; }
+        .dot-sep  { fill: #185FA5; }
+        .sep-txt  { fill: #C8D3DA; }
+        .side-txt { fill: #C8D3DA; }
+        .status-txt { fill: #57606A; }
+        .status-dot { fill: #22C55E; }
+        .corner-stroke { stroke: #185FA5; }
+        .scan-bar { fill: #185FA5; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg-rect" width="900" height="200" fill="#0D1117"/>
+  <rect class="dot-fill" width="900" height="200" fill="url(#dotsDark)"/>
+
+  <!-- Scan line -->
+  <rect class="scan-bar" x="0" y="-2" width="900" height="1.5" fill="#378ADD" opacity="0">
+    <animate attributeName="y" values="-2;202" dur="4s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.25;0.25;0" keyTimes="0;0.04;0.96;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner brackets — TL -->
+  <path class="corner-stroke" d="M26 38 L14 38 L14 50" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" fill="freeze" begin="0.1s"/>
+  </path>
+  <!-- TR -->
+  <path class="corner-stroke" d="M874 38 L886 38 L886 50" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" fill="freeze" begin="0.1s"/>
+  </path>
+  <!-- BL -->
+  <path class="corner-stroke" d="M26 162 L14 162 L14 150" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" fill="freeze" begin="0.1s"/>
+  </path>
+  <!-- BR -->
+  <path class="corner-stroke" d="M874 162 L886 162 L886 150" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" fill="freeze" begin="0.1s"/>
+  </path>
+
+  <!-- Side vertical labels -->
+  <text class="side-txt" x="28" y="100"
+        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="9" letter-spacing="2" fill="#21262D"
+        text-anchor="middle" transform="rotate(-90 28 100)">
+    MST SOFTWARE · 2024
+  </text>
+  <text class="side-txt" x="872" y="100"
+        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="9" letter-spacing="2" fill="#21262D"
+        text-anchor="middle" transform="rotate(90 872 100)">
+    HO CHI MINH CITY · VIETNAM
+  </text>
+
+  <!-- Name — clip reveal from center outward -->
+  <text class="name-txt"
+        x="450" y="98"
+        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="40" font-weight="700"
+        fill="#F0F6FC" letter-spacing="9"
+        text-anchor="middle"
+        clip-path="url(#nameReveal)">
+    MAI TRUNG H&#7852;U
+  </text>
+
+  <!-- Underline under name — grow from center -->
+  <rect class="underline-rect" x="450" y="106" width="0" height="1.5" fill="#378ADD">
+    <animate attributeName="width" from="0" to="460" dur="0.6s" fill="freeze" begin="1.25s" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="x" from="450" to="220" dur="0.6s" fill="freeze" begin="1.25s" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- Role line -->
+  <text class="role-txt"
+        x="450" y="128"
+        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="11" letter-spacing="2.5" fill="#378ADD"
+        text-anchor="middle" opacity="0">
+    CO-FOUNDER @ MST SOFTWARE · FULLSTACK DEVELOPER
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="1.5s"/>
+  </text>
+
+  <!-- Separator dots + stack -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="1.75s"/>
+
+    <circle class="dot-sep" cx="295" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="306" y="152"
+          font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+          font-size="10" fill="#30363D">NEXT.JS</text>
+
+    <circle class="dot-sep" cx="355" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="366" y="152"
+          font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+          font-size="10" fill="#30363D">NESTJS</text>
+
+    <circle class="dot-sep" cx="413" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="424" y="152"
+          font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+          font-size="10" fill="#30363D">.NET</text>
+
+    <circle class="dot-sep" cx="455" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="466" y="152"
+          font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+          font-size="10" fill="#30363D">TYPESCRIPT</text>
+
+    <circle class="dot-sep" cx="541" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="552" y="152"
+          font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+          font-size="10" fill="#30363D">POSTGRESQL</text>
+
+    <circle class="dot-sep" cx="624" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+  </g>
+
+  <!-- UIT line -->
+  <text class="meta-txt"
+        x="450" y="170"
+        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="10" letter-spacing="1" fill="#6E7681"
+        text-anchor="middle" opacity="0">
+    UIT · Information Technology · Web Programming · Year 3
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="2.0s"/>
+  </text>
+
+  <!-- Status pill bottom-right -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="2.2s"/>
+    <circle class="status-dot" cx="822" cy="184" r="4" fill="#22C55E">
+      <animate attributeName="r" values="4;5.5;4" dur="2s" repeatCount="indefinite" begin="2.6s"/>
+    </circle>
+    <text class="status-txt"
+          x="831" y="188"
+          font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+          font-size="9" letter-spacing="0.5" fill="#6E7681">
+      OPEN TO WORK
+    </text>
+  </g>
+</svg>
