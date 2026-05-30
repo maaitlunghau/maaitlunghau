@@ -1,23 +1,16 @@
 <!--
   maaitlunghau · GitHub Profile README
   ─────────────────────────────────────
-  Setup checklist:
-  1. Upload banner.svg to root of this repo (maaitlunghau/maaitlunghau)
-  2. Run the snake GitHub Action once (see bottom of this file)
-  3. Replace any placeholder links when ready
+  Setup:
+  1. Upload banner.svg to root of this repo
+  2. Run snake GitHub Action once (see workflow below)
 -->
 
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./banner-effect.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./banner-effect.svg" />
-  <img src="./banner-effect.svg" alt="Mai Trung Hậu — Co-Founder @ MST Software · Fullstack Developer" width="100%" />
+  <source media="(prefers-color-scheme: dark)"  srcset="./banner-scan.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./banner-scan.svg" />
+  <img src="./banner-scan.svg" alt="Mai Trung Hậu — Co-Founder @ MST Software · Fullstack Developer" width="100%" />
 </picture>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -119,8 +112,6 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 ## Tech Stack
 
-<div align="center">
-
 **Frontend**
 
 [![Frontend](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&perline=6)](https://skillicons.dev)
@@ -136,8 +127,6 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 **Currently Learning**
 
 [![Learning](https://skillicons.dev/icons?i=java,spring&perline=2)](https://skillicons.dev)
-
-</div>
 
 <br/>
 
@@ -159,7 +148,7 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 > I don't have a public blog yet — but I will. Topics I plan to cover: system design in production, TypeScript patterns, and building software for non-standard markets like MMO.
 >
-> When it's live, it'll be here. <!-- Replace this block with your actual blog link when ready -->
+> When it's live, it'll be here.
 
 <br/>
 
@@ -177,23 +166,24 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 ## GitHub Stats
 
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=maaitlunghau&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&icon_color=378ADD&text_color=6E7681&rank_icon=github&hide=contribs)
+
+</td>
+<td width="50%" align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=6E7681&langs_count=6)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=maaitlunghau&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&icon_color=378ADD&text_color=6E7681&rank_icon=github)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaitlunghau&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=6E7681&langs_count=6)
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com/?user=maaitlunghau&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=378ADD&fire=F59E0B&currStreakLabel=F0F6FC&sideLabels=6E7681&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=github-compact&hide_border=true&bg_color=0D1117&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Streak](https://streak-stats.demolab.com/?user=maaitlunghau&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=378ADD&fire=F59E0B&currStreakLabel=F0F6FC&sideLabels=6E7681&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC&card_width=900)
 
 </div>
 
@@ -201,54 +191,11 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 ---
 
-## Contribution Snake
+## Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/maaitlunghau/maaitlunghau/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maaitlunghau/maaitlunghau/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/maaitlunghau/maaitlunghau/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<details>
-<summary>⚙️ Setup snake animation</summary>
-<br/>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=github-compact&hide_border=true&bg_color=0D1117&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A&height=220)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -263,9 +210,9 @@ Reach out if what you're building is interesting.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/chunhau.py%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=378ADD&labelColor=161B22&color=161B22)](mailto:chunhau.py@gmail.com)
+[![Email](https://img.shields.io/badge/chunhau.py%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=378ADD)](mailto:chunhau.py@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=378ADD&labelColor=161B22&color=161B22)](https://www.linkedin.com/in/marseille-hauuu-780171337/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=378ADD)](https://www.linkedin.com/in/marseille-hauuu-780171337/)
 
 <br/>
 
