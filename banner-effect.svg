@@ -1,0 +1,129 @@
+<svg width="860" height="220" viewBox="0 0 860 220" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Mai Trung Hậu — Co-Founder @ MST Software · Fullstack Developer</title>
+  <desc>Animated dark engineering banner with typing reveal, scan line, and blue accent elements</desc>
+
+  <rect width="860" height="220" fill="#0D1117"/>
+
+  <defs>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#21262D"/>
+    </pattern>
+    <clipPath id="nameClip">
+      <rect x="60" y="60" width="0" height="60">
+        <animate attributeName="width" from="0" to="600" dur="1.2s" fill="freeze" begin="0.9s" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="860" height="220" fill="url(#dots)"/>
+
+  <rect x="0" y="0" width="860" height="2" fill="#378ADD" opacity="0.18">
+    <animate attributeName="y" from="-4" to="224" dur="3.5s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.18;0.18;0" keyTimes="0;0.05;0.95;1" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="44" y="50" width="2.5" height="120" fill="#378ADD" rx="1">
+    <animate attributeName="height" from="0" to="120" dur="0.6s" fill="freeze" begin="0.2s"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.2s"/>
+  </rect>
+
+  <path d="M44 54 L44 44 L54 44" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.9" dur="0.3s" fill="freeze" begin="0.15s"/>
+  </path>
+  <path d="M806 166 L806 176 L796 176" fill="none" stroke="#378ADD" stroke-width="1.5" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.9" dur="0.3s" fill="freeze" begin="0.15s"/>
+  </path>
+
+  <line x1="806" y1="44" x2="806" y2="44" stroke="#378ADD" stroke-width="0.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.55" dur="0.5s" fill="freeze" begin="0.5s"/>
+    <animate attributeName="x1" from="806" to="650" dur="0.5s" fill="freeze" begin="0.5s"/>
+  </line>
+  <line x1="806" y1="58" x2="806" y2="58" stroke="#378ADD" stroke-width="0.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.35" dur="0.5s" fill="freeze" begin="0.65s"/>
+    <animate attributeName="x1" from="806" to="680" dur="0.5s" fill="freeze" begin="0.65s"/>
+  </line>
+  <line x1="806" y1="72" x2="806" y2="72" stroke="#378ADD" stroke-width="0.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.2" dur="0.5s" fill="freeze" begin="0.8s"/>
+    <animate attributeName="x1" from="806" to="710" dur="0.5s" fill="freeze" begin="0.8s"/>
+  </line>
+
+  <circle cx="806" cy="44" r="3" fill="#378ADD" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" fill="freeze" begin="0.95s"/>
+  </circle>
+  <circle cx="806" cy="58" r="2" fill="#85B7EB" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.7" dur="0.3s" fill="freeze" begin="1.05s"/>
+  </circle>
+  <circle cx="806" cy="72" r="1.5" fill="#85B7EB" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.45" dur="0.3s" fill="freeze" begin="1.15s"/>
+  </circle>
+
+  <text x="60" y="98"
+        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="13" fill="#378ADD" opacity="0" letter-spacing="0.5">
+    &gt;_
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" fill="freeze" begin="0.5s"/>
+  </text>
+
+  <text x="60" y="118"
+        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="42" font-weight="700" fill="#F0F6FC" letter-spacing="-1"
+        clip-path="url(#nameClip)">
+    Mai Trung H&#7853;u
+  </text>
+
+  <rect x="374" y="84" width="3" height="36" fill="#378ADD" rx="1" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.1s" fill="freeze" begin="2.1s"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;0.95" dur="1s" repeatCount="indefinite" begin="2.1s"/>
+  </rect>
+
+  <text x="62" y="142"
+        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="11.5" fill="#378ADD" letter-spacing="2" opacity="0">
+    CO-FOUNDER @ MST SOFTWARE
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="2.2s"/>
+  </text>
+
+  <line x1="62" y1="155" x2="62" y2="155" stroke="#30363D" stroke-width="0.5">
+    <animate attributeName="x2" from="62" to="440" dur="0.6s" fill="freeze" begin="2.4s" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </line>
+
+  <text x="62" y="172" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#6E7681" opacity="0">
+    Fullstack Developer
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="2.6s"/>
+  </text>
+  <text x="185" y="172" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#30363D" opacity="0">
+    ·
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="2.7s"/>
+  </text>
+  <text x="196" y="172" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#6E7681" opacity="0">
+    TypeScript First
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="2.8s"/>
+  </text>
+  <text x="300" y="172" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#30363D" opacity="0">
+    ·
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="2.9s"/>
+  </text>
+  <text x="311" y="172" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#6E7681" opacity="0">
+    UIT · Ho Chi Minh City
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="3.0s"/>
+  </text>
+
+  <circle cx="63" cy="191" r="3.5" fill="#22C55E" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" fill="freeze" begin="3.2s"/>
+    <animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite" begin="3.5s"/>
+  </circle>
+  <text x="74" y="195" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="10" fill="#6E7681" opacity="0">
+    Open to Internship / Fresher
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="3.2s"/>
+  </text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" fill="freeze" begin="2.0s"/>
+    <text x="548" y="100" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#30363D">const dev = {</text>
+    <text x="548" y="117" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#30363D">  role:     <tspan fill="#378ADD">"Co-Founder"</tspan>,</text>
+    <text x="548" y="134" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#30363D">  stack:    <tspan fill="#378ADD">"TS · Next · NestJS · .NET"</tspan>,</text>
+    <text x="548" y="151" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#30363D">  learning: <tspan fill="#85B7EB">"Java Spring"</tspan>,</text>
+    <text x="548" y="168" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#30363D">  city:     <tspan fill="#6E7681">"Ho Chi Minh City"</tspan></text>
+    <text x="548" y="185" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="11" fill="#30363D">}</text>
+  </g>
+</svg>
