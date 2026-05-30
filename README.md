@@ -10,9 +10,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./banner.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./banner.svg" />
-  <img src="./banner.svg" alt="Mai Trung Hậu — Co-Founder @ MST Software · Fullstack Developer" width="100%" />
+  <source media="(prefers-color-scheme: dark)"  srcset="./banner-effect.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./banner-effect.svg" />
+  <img src="./banner-effect.svg" alt="Mai Trung Hậu — Co-Founder @ MST Software · Fullstack Developer" width="100%" />
 </picture>
 
 </div>
