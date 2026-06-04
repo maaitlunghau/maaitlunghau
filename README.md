@@ -164,7 +164,7 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 <br />
 
 <div align="center">
-  <table width="100%"><tr>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
     <td width="55%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
