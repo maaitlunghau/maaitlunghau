@@ -130,17 +130,6 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 <br/>
 
----
-
-## Current Focus
-
-```
-▸ Java Core  →  Spring Boot        Self-directed. Expanding beyond the TS/.NET world.
-▸ MMO systems research             Business logic, trust models, and payment flows at depth.
-▸ MST infrastructure               Hardening architecture for stability as the product line grows.
-```
-
-<br/>
 
 ---
 
@@ -156,47 +145,56 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 ## Education
 
-| | Institution | Major | Status |
-|:---:|---|---|:---:|
-| 🎓 | **University of Information Technology (UIT)** — Ho Chi Minh City | Information Technology · Web Programming | Year 3 · In Progress |
+|Institution | Major | Status |
+|---|---|:---:|
+|**FPT Aptech International IT Education Center** — Ho Chi Minh City | Information Technology · Web Programming | Year 2 |
 
 <br/>
 
 ---
 
-## GitHub Stats
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=maaitlunghau&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&icon_color=378ADD&text_color=6E7681&rank_icon=github&hide=contribs)
-
-</td>
-<td width="50%" align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=6E7681&langs_count=6)
-
-</td>
-</tr>
-</table>
+## 📊 GitHub Analytics
 
 <div align="center">
+  <a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-streak-stats-ruby.vercel.app/?user=maaitlunghau&theme=algolia&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=800&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de maaitlunghau" width="800" loading="lazy" />
+  </a>
+</div>
 
-![Streak](https://streak-stats.demolab.com/?user=maaitlunghau&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=378ADD&fire=F59E0B&currStreakLabel=F0F6FC&sideLabels=6E7681&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC&card_width=900)
+<br />
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=flat&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" height="180em" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=flat&hide_border=true&title_color=378ADD&langs_count=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" height="180em" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=react-dark&hide_border=true&bg_color=0D1117&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A&height=220" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=react&hide_border=true&bg_color=ffffff&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=EBF5FF&height=220" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=react-dark&hide_border=true&bg_color=0D1117&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A" width="100%" />
+  </picture>
 </div>
 
 <br/>
 
----
-
-## Contribution Activity
-
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=github-compact&hide_border=true&bg_color=0D1117&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A&height=220)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-fork-two.vercel.app/?username=maaitlunghau&theme=dracula&no-frame=true&margin-w=15&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-fork-two.vercel.app/?username=maaitlunghau&theme=flat&no-frame=true&margin-w=15&column=7" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=maaitlunghau&theme=dracula&no-frame=true&margin-w=15&column=7" alt="trophy" />
+  </picture>
 </div>
 
 <br/>
