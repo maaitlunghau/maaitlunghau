@@ -156,7 +156,7 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=maaitlunghau&theme=transparent&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD&currStreakLabel=378ADD&currStreakNum=F0F6FC&sideLabels=F0F6FC&sideNums=F0F6FC&dates=F0F6FC" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=maaitlunghau&theme=transparent&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD&currStreakLabel=378ADD&currStreakNum=F0F6FC&sideLabels=F0F6FC&sideNums=F0F6FC&dates=F0F6FC" width="800" />
 </div>
 
 <br />
