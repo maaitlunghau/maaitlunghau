@@ -157,9 +157,9 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.vercel.app/?user=maaitlunghau&theme=dark&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD&currStreakLabel=378ADD&currStreakNum=F0F6FC&sideLabels=F0F6FC&sideNums=F0F6FC&dates=F0F6FC" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.vercel.app/?user=maaitlunghau&theme=flat&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD&currStreakLabel=378ADD&currStreakNum=0D1117&sideLabels=6E7681&sideNums=0D1117&dates=6E7681" />
-    <img src="https://github-readme-streak-stats.vercel.app/?user=maaitlunghau&theme=dark&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD&currStreakLabel=378ADD&currStreakNum=F0F6FC&sideLabels=F0F6FC&sideNums=F0F6FC&dates=F0F6FC" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=maaitlunghau&theme=tokyonight&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=maaitlunghau&theme=flat&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD" />
+    <img src="https://streak-stats.demolab.com/?user=maaitlunghau&theme=tokyonight&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -167,15 +167,15 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=transparent&hide_border=true&title_color=378ADD&icon_color=378ADD&text_color=F0F6FC&rank_icon=github&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=flat&hide_border=true&title_color=378ADD&icon_color=378ADD&text_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=transparent&hide_border=true&title_color=378ADD&icon_color=378ADD&text_color=F0F6FC&rank_icon=github&include_all_commits=true&count_private=true" height="180em" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=flat&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" height="180em" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=transparent&hide_border=true&title_color=378ADD&text_color=F0F6FC&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=flat&hide_border=true&title_color=378ADD&text_color=0D1117&langs_count=6" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=transparent&hide_border=true&title_color=378ADD&text_color=F0F6FC&langs_count=6" height="180em" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=flat&hide_border=true&title_color=378ADD&langs_count=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" height="180em" />
   </picture>
 </div>
 
@@ -183,9 +183,9 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 <div align="center"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=react-dark&hide_border=true&bg_color=0D111700&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A&height=220" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=react-dark&hide_border=true&bg_color=0D1117&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A&height=220" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=react&hide_border=true&bg_color=ffffff&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=EBF5FF&height=220" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=react-dark&hide_border=true&bg_color=0D111700&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A&height=220" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=react-dark&hide_border=true&bg_color=0D1117&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A" width="100%" />
   </picture>
 </div>
 
