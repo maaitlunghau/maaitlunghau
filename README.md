@@ -156,27 +156,30 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=maaitlunghau&theme=tokyonight&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=maaitlunghau&theme=flat&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD" />
-    <img src="https://streak-stats.demolab.com/?user=maaitlunghau&theme=tokyonight&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD" alt="GitHub Streak" />
-  </picture>
+  <a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-streak-stats-ruby.vercel.app/?user=maaitlunghau&theme=algolia&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=800&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de maaitlunghau" width="800" loading="lazy" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=flat&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" height="180em" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=flat&hide_border=true&title_color=378ADD&langs_count=6" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" height="180em" />
-  </picture>
+  <table width="100%"><tr>
+    <td width="55%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=flat&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" width="100%" />
+      </picture>
+    </td>
+    <td width="45%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=flat&hide_border=true&title_color=378ADD&langs_count=6" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" width="100%" />
+      </picture>
+    </td>
+  </tr></table>
 </div>
 
 <br />
