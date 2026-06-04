@@ -153,39 +153,30 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 ---
 
-## GitHub Stats
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=maaitlunghau&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&icon_color=378ADD&text_color=6E7681&rank_icon=github&hide=contribs)
-
-</td>
-<td width="50%" align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=6E7681&langs_count=6)
-
-</td>
-</tr>
-</table>
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=maaitlunghau&theme=transparent&hide_border=true&stroke=378ADD&ring=378ADD&fire=378ADD&currStreakLabel=378ADD&currStreakNum=F0F6FC&sideLabels=F0F6FC&sideNums=F0F6FC&dates=F0F6FC" width="100%" />
+</div>
 
-![Streak](https://streak-stats.demolab.com/?user=maaitlunghau&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=378ADD&fire=F59E0B&currStreakLabel=F0F6FC&sideLabels=6E7681&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC&card_width=900)
+<br />
 
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=transparent&hide_border=true&title_color=378ADD&icon_color=378ADD&text_color=F0F6FC&rank_icon=github&include_all_commits=true&count_private=true" height="180em" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=transparent&hide_border=true&title_color=378ADD&text_color=F0F6FC&langs_count=6" height="180em" />
+</div>
+
+<br />
+
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=react-dark&hide_border=true&bg_color=0D111700&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A&height=220" width="100%" />
 </div>
 
 <br/>
 
----
-
-## Contribution Activity
-
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maaitlunghau&theme=github-compact&hide_border=true&bg_color=0D1117&color=378ADD&line=378ADD&point=F59E0B&area=true&area_color=0D1B2A&height=220)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=maaitlunghau&theme=dracula&no-frame=true&margin-w=15&column=7" alt="trophy" />
 </div>
 
 <br/>
