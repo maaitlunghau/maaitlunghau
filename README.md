@@ -130,17 +130,6 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 <br/>
 
----
-
-## Current Focus
-
-```
-▸ Java Core  →  Spring Boot        Self-directed. Expanding beyond the TS/.NET world.
-▸ MMO systems research             Business logic, trust models, and payment flows at depth.
-▸ MST infrastructure               Hardening architecture for stability as the product line grows.
-```
-
-<br/>
 
 ---
 
@@ -156,9 +145,9 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 ## Education
 
-| | Institution | Major | Status |
-|:---:|---|---|:---:|
-| 🎓 | **University of Information Technology (UIT)** — Ho Chi Minh City | Information Technology · Web Programming | Year 3 · In Progress |
+|Institution | Major | Status |
+|---|---|:---:|
+|**FPT Aptech International IT Education Center** — Ho Chi Minh City | Information Technology · Web Programming | Year 2 |
 
 <br/>
 
