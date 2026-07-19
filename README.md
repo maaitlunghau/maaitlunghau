@@ -164,11 +164,11 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 <br />
 
 <div align="center">
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=flat&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" height="180em" />
-  </picture>
+  </picture> -->
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" />
@@ -189,13 +189,13 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-fork-two.vercel.app/?username=maaitlunghau&theme=dracula&no-frame=true&margin-w=15&column=7" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-fork-two.vercel.app/?username=maaitlunghau&theme=flat&no-frame=true&margin-w=15&column=7" />
     <img src="https://github-profile-trophy-fork-two.vercel.app/?username=maaitlunghau&theme=dracula&no-frame=true&margin-w=15&column=7" alt="trophy" />
   </picture>
-</div>
+</div> -->
 
 <br/>
 
