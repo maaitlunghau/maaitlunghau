@@ -1,11 +1,3 @@
-<!--
-  maaitlunghau · GitHub Profile README
-  ─────────────────────────────────────
-  Setup:
-  1. Upload banner.svg to root of this repo
-  2. Run snake GitHub Action once (see workflow below)
--->
-
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="./banner-scan.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./banner-scan.svg" />
@@ -153,7 +145,7 @@ Built in response to the volume of online scams targeting Vietnamese internet us
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer">
@@ -161,23 +153,23 @@ Built in response to the volume of online scams targeting Vietnamese internet us
   </a>
 </div>
 
-<br />
+<br /> -->
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=flat&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maaitlunghau&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=378ADD&rank_icon=github&include_all_commits=true&count_private=true" height="180em" />
   </picture> -->
-  &nbsp;
+  <!-- &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=flat&hide_border=true&title_color=378ADD&langs_count=6" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maaitlunghau&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&langs_count=6" height="180em" />
   </picture>
-</div>
+</div> -->
 
-<br />
+<!-- <br />
 
 <div align="center"> 
   <picture>
@@ -187,7 +179,7 @@ Built in response to the volume of online scams targeting Vietnamese internet us
   </picture>
 </div>
 
-<br/>
+<br/> -->
 
 <!-- <div align="center">
   <picture>
