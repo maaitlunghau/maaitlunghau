@@ -10,7 +10,9 @@
 [![Gmail](https://img.shields.io/badge/chunhau.py%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chunhau.py@gmail.com)
 [![GitHub](https://img.shields.io/badge/@maaitlunghau-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maaitlunghau)
 [![Views](https://komarev.com/ghpvc/?username=maaitlunghau&color=378ADD&style=flat-square&label=Views)](https://github.com/maaitlunghau)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-Internship_%2F_Fresher-22C55E?style=flat-square)](mailto:chunhau.py@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/maaitlunghau)
+[![Fanpage](https://img.shields.io/badge/MST_Software-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mstsoftware.vn)
+[![Work Email](https://img.shields.io/badge/trunghau%40mstsoftware.vn-378ADD?style=flat-square)](mailto:trunghau@mstsoftware.vn)
 
 </div>
 
