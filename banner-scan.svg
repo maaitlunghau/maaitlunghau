@@ -159,7 +159,7 @@
         font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
         font-size="10" letter-spacing="1" fill="#6E7681"
         text-anchor="middle" opacity="0">
-    FPT Aptech · International Programmer Training Center · Web Programming · Semester 3
+    FPT Aptech · International Programmer Training Center · Web Programming · Semester 4
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="2.0s"/>
   </text>
 
