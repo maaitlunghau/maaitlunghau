@@ -120,32 +120,37 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="1.75s"/>
 
-    <circle class="dot-sep" cx="295" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
-    <text class="sep-txt" x="306" y="152"
+    <circle class="dot-sep" cx="252" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="263" y="152"
           font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
-          font-size="10" fill="#30363D">NEXT.JS</text>
+          font-size="10" fill="#30363D">REACTJS</text>
 
-    <circle class="dot-sep" cx="355" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
-    <text class="sep-txt" x="366" y="152"
+    <circle class="dot-sep" cx="317" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="328" y="152"
           font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
           font-size="10" fill="#30363D">NESTJS</text>
 
-    <circle class="dot-sep" cx="413" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
-    <text class="sep-txt" x="424" y="152"
+    <circle class="dot-sep" cx="376" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="387" y="152"
           font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
           font-size="10" fill="#30363D">.NET</text>
 
-    <circle class="dot-sep" cx="455" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
-    <text class="sep-txt" x="466" y="152"
+    <circle class="dot-sep" cx="423" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="434" y="152"
+          font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+          font-size="10" fill="#30363D">JAVA SPRING</text>
+
+    <circle class="dot-sep" cx="512" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="523" y="152"
           font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
           font-size="10" fill="#30363D">TYPESCRIPT</text>
 
-    <circle class="dot-sep" cx="541" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
-    <text class="sep-txt" x="552" y="152"
+    <circle class="dot-sep" cx="595" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <text class="sep-txt" x="606" y="152"
           font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
-          font-size="10" fill="#30363D">POSTGRESQL</text>
+          font-size="10" fill="#30363D">MYSQL</text>
 
-    <circle class="dot-sep" cx="624" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
+    <circle class="dot-sep" cx="648" cy="148" r="2.5" fill="#378ADD" opacity="0.5"/>
   </g>
 
   <!-- UIT line -->
@@ -154,7 +159,7 @@
         font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
         font-size="10" letter-spacing="1" fill="#6E7681"
         text-anchor="middle" opacity="0">
-    UIT · Information Technology · Web Programming · Year 3
+    FPT Aptech · International Programmer Training Center · Web Programming · Semester 3
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="2.0s"/>
   </text>
 
