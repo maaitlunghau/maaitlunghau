@@ -162,18 +162,4 @@
     FPT Aptech · International Programmer Training Center · Web Programming · Semester 4
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="2.0s"/>
   </text>
-
-  <!-- Status pill bottom-right -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="2.2s"/>
-    <circle class="status-dot" cx="822" cy="184" r="4" fill="#22C55E">
-      <animate attributeName="r" values="4;5.5;4" dur="2s" repeatCount="indefinite" begin="2.6s"/>
-    </circle>
-    <text class="status-txt"
-          x="831" y="188"
-          font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
-          font-size="9" letter-spacing="0.5" fill="#6E7681">
-      OPEN TO WORK
-    </text>
-  </g>
 </svg>
