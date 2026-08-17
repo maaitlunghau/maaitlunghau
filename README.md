@@ -24,7 +24,7 @@ Full-stack web developer and Co-Founder at **MST Software**, a software company 
 
 At MST, my scope spans product direction, system architecture, feature development, and cross-team coordination. On the engineering side, I work TypeScript-first: **Next.js** on the client, **NestJS** and **.NET** on the server, **PostgreSQL** and **MongoDB** at the data layer.
 
-Currently a third-year IT student at **UIT** (University of Information Technology, Ho Chi Minh City), specializing in Web Programming. Expanding into the **Java ecosystem** — Java Core → Spring Boot — alongside deepening my understanding of MMO business logic and systems design.
+Currently a third-year IT student at **FPT Aptech** (FPT Aptech International IT Education Center, Ho Chi Minh City), specializing in Web Programming. Expanding into the **Java ecosystem** — Java Core → Spring Boot — alongside deepening my understanding of MMO business logic and systems design.
 
 <br/>
 
